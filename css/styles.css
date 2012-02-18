@@ -1,0 +1,79 @@
+a {
+	text-decoration: none;
+}
+
+img {
+	border: 0;
+}
+
+ul {
+	list-style: none;
+	margin-left: -70px;
+	margin-top: 30px;
+}
+
+li {
+	float: left;
+	margin: 0;
+}
+
+#wrapper {
+	width: 950px;
+	margin: auto;
+}
+
+#banner {
+	width: 822px;
+	height: 130px;
+	background-image: url(../images/banner.png);
+}
+
+.ir {
+    display: block;
+    text-indent: -999em;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    text-align: left;
+    direction: ltr;
+}
+
+#tomato img {
+	margin-top: 40px;
+	margin-left: 280px;
+}
+
+.menu_shift {
+	margin-top: 27px;
+	margin-left: 10px;
+}
+
+.menu_shift_cacti {
+	margin-top: -10px;
+	margin-left: 10px;
+}
+#menu a {
+	width: 226px;
+	height: 240px;
+	display: block;
+}
+
+a#sab {
+	background-image: url(../images/sab.jpg);
+	background-repeat: no-repeat;
+}
+
+a#sick {
+	background-image: url(../images/sickbeard.jpg);
+	background-repeat: no-repeat;
+}
+
+a#couch {
+	background-image: url(../images/couch.jpg);
+	background-repeat: no-repeat;
+}
+
+a#cacti {
+	background-image: url(../images/cacti.jpg);
+	background-repeat: no-repeat;
+}
+
