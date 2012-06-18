@@ -77,3 +77,8 @@ a#cacti {
 	background-repeat: no-repeat;
 }
 
+a#headphones {
+	background-image: url(../images/headphones.png);
+	background-repeat: no-repeat;
+}
+
