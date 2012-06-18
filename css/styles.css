@@ -72,13 +72,8 @@ a#couch {
 	background-repeat: no-repeat;
 }
 
-a#cacti {
-	background-image: url(../images/cacti.jpg);
-	background-repeat: no-repeat;
-}
-
 a#headphones {
-	background-image: url(../images/headphones.png);
+	background-image: url(../images/headphones.jpg);
 	background-repeat: no-repeat;
 }
 
